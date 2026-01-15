@@ -1,0 +1,14 @@
+C:\Users\shani\Desktop\OOP\OOPC2\OOPC2\bin\Debug\net8.0\OOPC2.exe
+C:\Users\shani\Desktop\OOP\OOPC2\OOPC2\bin\Debug\net8.0\OOPC2.deps.json
+C:\Users\shani\Desktop\OOP\OOPC2\OOPC2\bin\Debug\net8.0\OOPC2.runtimeconfig.json
+C:\Users\shani\Desktop\OOP\OOPC2\OOPC2\bin\Debug\net8.0\OOPC2.dll
+C:\Users\shani\Desktop\OOP\OOPC2\OOPC2\bin\Debug\net8.0\OOPC2.pdb
+C:\Users\shani\Desktop\OOP\OOPC2\OOPC2\obj\Debug\net8.0\OOPC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shani\Desktop\OOP\OOPC2\OOPC2\obj\Debug\net8.0\OOPC2.AssemblyInfoInputs.cache
+C:\Users\shani\Desktop\OOP\OOPC2\OOPC2\obj\Debug\net8.0\OOPC2.AssemblyInfo.cs
+C:\Users\shani\Desktop\OOP\OOPC2\OOPC2\obj\Debug\net8.0\OOPC2.csproj.CoreCompileInputs.cache
+C:\Users\shani\Desktop\OOP\OOPC2\OOPC2\obj\Debug\net8.0\OOPC2.dll
+C:\Users\shani\Desktop\OOP\OOPC2\OOPC2\obj\Debug\net8.0\refint\OOPC2.dll
+C:\Users\shani\Desktop\OOP\OOPC2\OOPC2\obj\Debug\net8.0\OOPC2.pdb
+C:\Users\shani\Desktop\OOP\OOPC2\OOPC2\obj\Debug\net8.0\OOPC2.genruntimeconfig.cache
+C:\Users\shani\Desktop\OOP\OOPC2\OOPC2\obj\Debug\net8.0\ref\OOPC2.dll
