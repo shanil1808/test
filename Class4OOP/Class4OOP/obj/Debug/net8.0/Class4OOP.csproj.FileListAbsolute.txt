@@ -1,0 +1,15 @@
+C:\Users\shani\Desktop\OOP\Class4OOP\Class4OOP\bin\Debug\net8.0\Class4OOP.exe
+C:\Users\shani\Desktop\OOP\Class4OOP\Class4OOP\bin\Debug\net8.0\Class4OOP.deps.json
+C:\Users\shani\Desktop\OOP\Class4OOP\Class4OOP\bin\Debug\net8.0\Class4OOP.runtimeconfig.json
+C:\Users\shani\Desktop\OOP\Class4OOP\Class4OOP\bin\Debug\net8.0\Class4OOP.dll
+C:\Users\shani\Desktop\OOP\Class4OOP\Class4OOP\bin\Debug\net8.0\Class4OOP.pdb
+C:\Users\shani\Desktop\OOP\Class4OOP\Class4OOP\obj\Debug\net8.0\Class4OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shani\Desktop\OOP\Class4OOP\Class4OOP\obj\Debug\net8.0\Class4OOP.AssemblyInfoInputs.cache
+C:\Users\shani\Desktop\OOP\Class4OOP\Class4OOP\obj\Debug\net8.0\Class4OOP.AssemblyInfo.cs
+C:\Users\shani\Desktop\OOP\Class4OOP\Class4OOP\obj\Debug\net8.0\Class4OOP.csproj.CoreCompileInputs.cache
+C:\Users\shani\Desktop\OOP\Class4OOP\Class4OOP\obj\Debug\net8.0\Class4OOP.sourcelink.json
+C:\Users\shani\Desktop\OOP\Class4OOP\Class4OOP\obj\Debug\net8.0\Class4OOP.dll
+C:\Users\shani\Desktop\OOP\Class4OOP\Class4OOP\obj\Debug\net8.0\refint\Class4OOP.dll
+C:\Users\shani\Desktop\OOP\Class4OOP\Class4OOP\obj\Debug\net8.0\Class4OOP.pdb
+C:\Users\shani\Desktop\OOP\Class4OOP\Class4OOP\obj\Debug\net8.0\Class4OOP.genruntimeconfig.cache
+C:\Users\shani\Desktop\OOP\Class4OOP\Class4OOP\obj\Debug\net8.0\ref\Class4OOP.dll

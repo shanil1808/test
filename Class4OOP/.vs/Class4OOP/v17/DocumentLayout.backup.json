@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shani\\Desktop\\OOP\\Class4OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B7EE2C-9B1B-4F8C-812F-3CB88105B050}|Class4OOP\\Class4OOP.csproj|c:\\users\\shani\\desktop\\oop\\class4oop\\class4oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B7EE2C-9B1B-4F8C-812F-3CB88105B050}|Class4OOP\\Class4OOP.csproj|solutionrelative:class4oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shani\\Desktop\\OOP\\Class4OOP\\Class4OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Class4OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\shani\\Desktop\\OOP\\Class4OOP\\Class4OOP\\Program.cs*",
+              "RelativeToolTip": "Class4OOP\\Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T13:06:45.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
